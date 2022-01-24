@@ -1,5 +1,3 @@
-console.log('Client side js file is loaded')
-
 // This script is running client side, so can use Fetch API, but is not accessible from node.js as that is backend only
 // fetch('http://localhost:3000/weather?address=Boston').then((response) => {
 //     response.json().then((data) => {
